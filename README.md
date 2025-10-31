@@ -151,7 +151,7 @@ The dashboard was built using **Tailwind CSS** and **Chart.js**, integrating res
 - Tab navigation for conclusions, recommendations, and methodology  
 
 <p align="center">
-  <img src="img/productsalesdashboard.png" alt="Product Sales Dashboard Preview" width="700"/>
+  <img src="img/product-sales-dashboard.png" alt="Product Sales Dashboard Preview" width="700"/>
 </p>
 
 <p align="center"><em>Figure: Interactive dashboard visualizing product performance, customer demographics, and sales trends.</em></p>
